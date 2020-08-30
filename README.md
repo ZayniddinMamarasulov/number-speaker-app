@@ -1,8 +1,13 @@
 # flutter_number_speaker
 
-A new Flutter application.
+A new Flutter application. Application are created for teaching my students.
+Click numbers and app speaks them in english language))
 
 ## Getting Started
+
+![](assets/Screenshot_1.png)
+
+
 
 This project is a starting point for a Flutter application.
 
